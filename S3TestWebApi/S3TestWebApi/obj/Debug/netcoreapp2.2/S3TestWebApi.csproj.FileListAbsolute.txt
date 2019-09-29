@@ -1,0 +1,14 @@
+D:\ASP_test\2._Basics\13._AWS\S3TestWebApi\S3TestWebApi\bin\Debug\netcoreapp2.2\S3TestWebApi.deps.json
+D:\ASP_test\2._Basics\13._AWS\S3TestWebApi\S3TestWebApi\bin\Debug\netcoreapp2.2\S3TestWebApi.runtimeconfig.json
+D:\ASP_test\2._Basics\13._AWS\S3TestWebApi\S3TestWebApi\bin\Debug\netcoreapp2.2\S3TestWebApi.runtimeconfig.dev.json
+D:\ASP_test\2._Basics\13._AWS\S3TestWebApi\S3TestWebApi\bin\Debug\netcoreapp2.2\S3TestWebApi.dll
+D:\ASP_test\2._Basics\13._AWS\S3TestWebApi\S3TestWebApi\obj\Debug\netcoreapp2.2\S3TestWebApi.csprojAssemblyReference.cache
+D:\ASP_test\2._Basics\13._AWS\S3TestWebApi\S3TestWebApi\obj\Debug\netcoreapp2.2\S3TestWebApi.csproj.CoreCompileInputs.cache
+D:\ASP_test\2._Basics\13._AWS\S3TestWebApi\S3TestWebApi\obj\Debug\netcoreapp2.2\S3TestWebApi.RazorAssemblyInfo.cache
+D:\ASP_test\2._Basics\13._AWS\S3TestWebApi\S3TestWebApi\obj\Debug\netcoreapp2.2\S3TestWebApi.RazorAssemblyInfo.cs
+D:\ASP_test\2._Basics\13._AWS\S3TestWebApi\S3TestWebApi\obj\Debug\netcoreapp2.2\S3TestWebApi.AssemblyInfoInputs.cache
+D:\ASP_test\2._Basics\13._AWS\S3TestWebApi\S3TestWebApi\obj\Debug\netcoreapp2.2\S3TestWebApi.AssemblyInfo.cs
+D:\ASP_test\2._Basics\13._AWS\S3TestWebApi\S3TestWebApi\obj\Debug\netcoreapp2.2\S3TestWebApi.RazorTargetAssemblyInfo.cache
+D:\ASP_test\2._Basics\13._AWS\S3TestWebApi\S3TestWebApi\bin\Debug\netcoreapp2.2\S3TestWebApi.pdb
+D:\ASP_test\2._Basics\13._AWS\S3TestWebApi\S3TestWebApi\obj\Debug\netcoreapp2.2\S3TestWebApi.dll
+D:\ASP_test\2._Basics\13._AWS\S3TestWebApi\S3TestWebApi\obj\Debug\netcoreapp2.2\S3TestWebApi.pdb
